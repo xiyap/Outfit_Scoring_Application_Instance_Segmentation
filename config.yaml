@@ -1,0 +1,13 @@
+path: C:\Users\xiani\Desktop\Online Studies\Deep Learning Project\Clothing Segmentation (YOLOv8)\data
+train: train\images
+val: val\images
+
+nc: 7
+names:
+  0: sock
+  1: shoe
+  2: pants
+  3: glasses
+  4: shirt
+  5: slipper
+  6: cap
